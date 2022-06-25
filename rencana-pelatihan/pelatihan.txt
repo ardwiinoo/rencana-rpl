@@ -7,4 +7,5 @@ Rencana Pelatihan RPL 2022
   * Javascript
     ^ React
   * PHP
-    ^ Codeigniter
+    ^ Laravel
+  * PYTHON

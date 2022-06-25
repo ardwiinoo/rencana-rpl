@@ -6,6 +6,10 @@ Rencana Pelatihan RPL 2022
 - Framework
   * Javascript
     ^ React
+    ^ Angular
+    ^ Express
   * PHP
     ^ Laravel
   * PYTHON
+- Menjadi Youtuber seperti Windah Basudara
+

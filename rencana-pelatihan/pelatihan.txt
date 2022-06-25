@@ -9,5 +9,7 @@ Rencana Pelatihan RPL 2022
     ^ Angular
     ^ Express
   * PHP
-    ^ Codeigniter
+    ^ Laravel
+  * PYTHON
 - Menjadi Youtuber seperti Windah Basudara
+
